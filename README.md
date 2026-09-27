@@ -1,5 +1,5 @@
 # Mi Proyecto CI
-Proyecto básico en Node.js para practicar Integración Continua con GitHub Actions.
+Prueba para la Practica 4 
 
 ## Cómo ejecutar las pruebas
 ```bash
