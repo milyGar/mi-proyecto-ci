@@ -1,12 +1,12 @@
+
 {
   "name": "mi-proyecto-ci",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto de operaciones matematicas con pruebas automatizadas",
   "main": "index.js",
-"scripts": {
-  "test": "jest"
-},
-
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
